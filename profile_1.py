@@ -6,10 +6,18 @@ from firebase_admin import auth
 from firebase_admin import firestore
 
 
-cred = credentials.Certificate('hopex-learn-6372ccf7e745.json')
 
-firebase_admin.initialize_app(cred)
+def initialize_firebase_app():
+    try:
+        # Attempt to get the app, which will throw an exception if it doesn't exist
+        firebase_admin.get_app()
+    except ValueError:
+        # Initialize the app only if it doesn't exist
+        cred = credentials.Certificate('hopex-learn-6372ccf7e745.json')
+        firebase_admin.initialize_app(cred)
 
+# Call the function to initialize the app
+initialize_firebase_app()
 
 def app():
   st.title('Welcome to :violet[HopeX learn]')

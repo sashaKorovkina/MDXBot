@@ -27,7 +27,7 @@ class MultiApp:
         with st.sidebar:        
             app = option_menu(
                 menu_title='HopeX learn',
-                options=['Home','Profile','Quiz','AI Chat','About'],
+                options=['Home','Profile','Quiz','AI Chat','Image AI'],
                 icons=['house-fill','person-circle','trophy-fill','chat-fill','info-circle-fill'],
                 menu_icon='chat-text-fill',
                 default_index=1,
@@ -48,7 +48,7 @@ class MultiApp:
             quiz.app()  
         if app == "AI Chat":
             chat.app()
-        if app == 'About':
+        if app == 'Image AI':
             about.app()
            
              

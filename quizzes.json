@@ -1,0 +1,299 @@
+[
+  {
+  "topic": "achalasia",
+  "questions": [
+    {
+      "question": "What is a common symptom of achalasia?",
+      "options": ["Frequent heartburn", "Difficulty swallowing", "Chronic cough", "Sudden weight gain"],
+      "correct_answer": "Difficulty swallowing"
+  },
+  {
+      "question": "Which radiological investigation is commonly used to diagnose achalasia?",
+      "options": ["CT scan", "MRI", "Barium swallow X-ray", "Ultrasound"],
+      "correct_answer": "Barium swallow X-ray"
+  },
+  {
+      "question": "Achalasia primarily affects which part of the gastrointestinal tract?",
+      "options": ["Stomach", "Colon", "Esophagus", "Small intestine"],
+      "correct_answer": "Esophagus"
+  },
+  {
+      "question": "What is the characteristic finding in an achalasia patient during esophageal manometry?",
+      "options": ["Increased LES pressure", "Decreased LES pressure", "Normal LES pressure", "Fluctuating LES pressure"],
+      "correct_answer": "Increased LES pressure"
+  },
+  {
+      "question": "Which of the following is NOT a treatment option for achalasia?",
+      "options": ["Pneumatic dilation", "Esophagectomy", "Botulinum toxin injection", "Increasing dietary fiber"],
+      "correct_answer": "Increasing dietary fiber"
+  },
+  {
+      "question": "What does 'LES' stand for in the context of achalasia?",
+      "options": ["Large Esophageal Stricture", "Lower Esophageal Sphincter", "Laryngeal Entryway Segment", "Luminal Epithelial Surface"],
+      "correct_answer": "Lower Esophageal Sphincter"
+  },
+  {
+      "question": "Which anatomical structures are primarily involved in the pathophysiology of achalasia?",
+      "options": ["Lower esophageal sphincter (LES) and the body of the esophagus", "Stomach and duodenum", "Mouth and pharynx", "Gallbladder and bile ducts"],
+      "correct_answer": "Lower esophageal sphincter (LES) and the body of the esophagus"
+  },
+  {
+      "question": "Which statement about achalasia's etiology is correct?",
+      "options": ["It is primarily caused by dietary factors", "It has a strong genetic basis with a specific gene identified", "It involves degeneration of neurons in the myenteric plexus", "It is an infectious disease caused by a bacteria"],
+      "correct_answer": "It involves degeneration of neurons in the myenteric plexus"
+  },
+  {
+      "question": "A 'wait and see' approach is recommended in the management of achalasia.",
+      "options": ["True", "False"],
+      "correct_answer": "False"
+  },
+  {
+      "question": "Which professional society provides guidelines for the diagnosis and investigation of achalasia?",
+      "options": ["American Gastroenterological Association", "European Society of Gastrointestinal Endoscopy", "American College of Cardiology", "Society of Nuclear Medicine and Molecular Imaging"],
+      "correct_answer": "European Society of Gastrointestinal Endoscopy"
+  }
+]
+},
+{
+  "topic": "acoustic trauma",
+  "questions": [
+      
+{"question": "What is the primary cause of acoustic trauma?",
+"options": ["Chronic ear infections", "Exposure to loud noise", "Foreign object in the ear", "Age-related hearing loss"],
+"correct_answer": "Exposure to loud noise"},
+
+{"question": "Which type of hearing loss is associated with acoustic trauma?",
+"options": ["Conductive", "Sensorineural", "Mixed", "Central"],
+"correct_answer": "Sensorineural"},
+
+{"question": "What is a common symptom of acoustic trauma?",
+"options": ["Fever", "Tinnitus", "Blurred vision", "Sore throat"],
+"correct_answer": "Tinnitus"},
+
+{"question": "What investigation is commonly performed to diagnose acoustic trauma?",
+"options": ["Blood tests", "MRI of the brain", "Tympanometry", "Pure tone audiometry"],
+"correct_answer": "Pure tone audiometry"},
+
+{"question": "How can acoustic trauma be prevented?",
+"options": ["Regular exercise", "Wearing ear protection in noisy environments", "Taking antibiotics", "Eating a balanced diet"],
+"correct_answer": "Wearing ear protection in noisy environments"},
+
+{"question": "Which of the following treatments is NOT typically used for acoustic trauma?",
+"options": ["Corticosteroids", "Hearing aids", "Antibiotics", "Sound therapy"],
+"correct_answer": "Antibiotics"},
+
+{"question": "What is the prognosis for patients with acute acoustic trauma if treated early?",
+"options": ["Poor, with significant long-term disability", "Good, with potential for full recovery", "Fair, with some permanent hearing loss", "Variable, with unpredictable outcomes"],
+"correct_answer": "Good, with potential for full recovery"},
+
+{"question": "Which demographic is more at risk for experiencing acoustic trauma?",
+"options": ["Infants", "Teenagers", "Construction workers", "Adults over 65"],
+"correct_answer": "Construction workers"},
+
+{"question": "Which frequency range of hearing is most commonly affected by acoustic trauma?",
+"options": ["Low frequencies (20-250 Hz)", "Middle frequencies (250-2000 Hz)", "High frequencies (2000-8000 Hz)", "Ultrahigh frequencies (above 20000 Hz)"],
+"correct_answer": "High frequencies (2000-8000 Hz)"},
+
+{"question": "What differential diagnosis should be considered for a patient presenting with sudden hearing loss due to possible acoustic trauma?",
+"options": ["Diabetes mellitus", "Meniere’s disease", "Hypertension", "Migraine"],
+"correct_answer": "Meniere’s disease"}]},
+
+{
+  "topic":"acute laryngitis",
+  "questions": [
+      {
+  "question": "What is the common cause of acute laryngitis?",
+  "options": ["Bacterial infection", "Fungal infection", "Viral Upper Respiratory Infection (URI)", "Allergic reaction"],
+  "correct_answer": "Viral Upper Respiratory Infection (URI)"
+},
+{
+  "question": "What is a common symptom of mild acute laryngitis?",
+  "options": ["Fever", "Hoarseness", "Severe throat pain", "Skin rash"],
+  "correct_answer": "Hoarseness"
+},
+{
+  "question": "What type of investigation is not routinely performed for acute laryngitis?",
+  "options": ["Radiology", "Laryngoscopy", "Blood test", "Throat swab"],
+  "correct_answer": "Radiology"
+},
+{
+  "question": "How is acute laryngitis typically managed?",
+  "options": ["Immediate surgery", "Antibiotic therapy", "Wait and See approach", "Aggressive physical therapy"],
+  "correct_answer": "Wait and See approach"
+},
+{
+  "question": "Acute laryngitis is typically a condition with what kind of prognosis?",
+  "options": ["Poor", "Guarded", "Good", "Uncertain"],
+  "correct_answer": "Good"
+},
+{
+  "question": "Which anatomical structures are primarily involved in acute laryngitis?",
+  "options": ["Pharynx and Esophagus", "Lungs and Bronchi", "Larynx and Vocal Cords", "Nasal Cavity and Sinuses"],
+  "correct_answer": "Larynx and Vocal Cords"
+},
+{
+  "question": "Acute laryngitis typically resolves within what time frame?",
+  "options": ["1-2 weeks", "1-2 months", "3-4 days", "5-6 weeks"],
+  "correct_answer": "1-2 weeks"
+},
+{
+  "question": "Which European guideline is consulted for the investigation and treatment of acute laryngitis?",
+  "options": ["American Medical Association Guidelines", "European Resuscitation Council Guidelines", "European Laryngological Society Guidelines", "World Health Organization Guidelines"],
+  "correct_answer": "European Laryngological Society Guidelines"
+},
+{
+  "question": "One of the following is NOT a differential diagnosis for acute laryngitis. Which one is it?",
+  "options": ["Laryngeal cancer", "Vocal cord nodules", "Asthma", "Laryngopharyngeal reflux"],
+  "correct_answer": "Asthma"
+},
+{
+  "question": "Which type of treatment is not typically used in cases of acute laryngitis?",
+  "options": ["Phonosurgery", "Voice rest", "Increased fluid intake", "Anti-inflammatory medications"],
+  "correct_answer": "Phonosurgery"
+}
+  ]
+
+},
+{
+  "topic": "acute otitis media",
+  "questions":[
+    {"question": "What is a common early symptom of Acute Otitis Media (AOM)?", "options": ["Nasal Congestion", "Cough", "Otalgia (Ear Pain)", "Rash"], "correct_answer": "Otalgia (Ear Pain)"},
+
+{"question": "Which method is not typically used in the diagnosis of Acute Otitis Media (AOM)?", "options": ["Otoscopic Examination", "MRI", "Audiometry", "Physical Inspection"], "correct_answer": "MRI"},
+
+{"question": "What can be a predisposing factor for acute otitis media?", "options": ["Excessive Earwax", "High Altitudes", "Impaired Mucociliary Clearance", "Nut Allergies"], "correct_answer": "Impaired Mucociliary Clearance"},
+
+{"question": "Which one of the following is part of the differential diagnosis for AOM?", "options": ["Diabetes Mellitus", "Temporal Arteritis", "Otitis Externa", "Tuberculosis"], "correct_answer": "Otitis Externa"},
+
+{"question": "In Acute Otitis Media, what is typically found upon inspection of the tympanic membrane?", "options": ["Clear and Intact Membrane", "Bulging Membrane", "Retracted Membrane", "Perforation"], "correct_answer": "Bulging Membrane"},
+
+{"question": "What is the preferred treatment strategy for non-severe cases of AOM in children?", "options": ["Immediate Surgery", "Wait and See Approach", "High-dose Antibiotics", "Antiviral Medication"], "correct_answer": "Wait and See Approach"},
+
+{"question": "What is not a common cause of Acute Otitis Media?", "options": ["Bacterial Infection", "Viral Infection", "Fungal Infection", "Allergies"], "correct_answer": "Fungal Infection"},
+
+{"question": "Complications from Acute Otitis Media may necessitate what type of diagnostic imaging?", "options": ["Ultrasound", "X-ray", "CT Scan", "PET Scan"], "correct_answer": "CT Scan"},
+
+{"question": "When examining a patient with AOM, which of these findings would be inconsistent with the diagnosis?", "options": ["Erythematous Tympanic Membrane", "Purulent Otorrhea", "Persistent Otorrhea without Acute Presentation", "Tympanic Membrane Perforation"], "correct_answer": "Persistent Otorrhea without Acute Presentation"},
+
+{"question": "The prognosis for Acute Otitis Media (AOM) is usually", "options": ["Poor", "Variable depending on age", "Good with proper treatment", "Always requires surgical intervention"], "correct_answer": "Good with proper treatment"}
+  ]
+},
+
+{
+  "topic":"acute pharyngitis",
+  "questions":[
+    {
+        "question": "Which anatomical structures are commonly involved in the inflammation process during acute pharyngitis?",
+        "options": [
+            "Larynx and lungs",
+            "Esophagus and trachea",
+            "Palatine tonsils and pharyngeal wall",
+            "Nasal passages and sinuses"
+        ],
+        "correct_answer": "Palatine tonsils and pharyngeal wall"
+    },
+    {
+        "question": "What is the most common bacterial cause of acute pharyngitis?",
+        "options": [
+            "Haemophilus influenzae",
+            "Group A beta-hemolytic streptococcus (GABHS)",
+            "Staphylococcus aureus",
+            "Mycoplasma pneumoniae"
+        ],
+        "correct_answer": "Group A beta-hemolytic streptococcus (GABHS)"
+    },
+    {
+        "question": "Which of the following is NOT a typical symptom of acute pharyngitis?",
+        "options": [
+            "Throat discomfort and pain",
+            "Fever",
+            "Difficulty breathing",
+            "Headaches"
+        ],
+        "correct_answer": "Difficulty breathing"
+    },
+    {
+        "question": "Which condition requires differentiation from acute pharyngitis due to similar presenting symptoms?",
+        "options": [
+            "Acute bronchitis",
+            "Infectious mononucleosis",
+            "Asthma",
+            "Gastroesophageal reflux disease (GERD)"
+        ],
+        "correct_answer": "Infectious mononucleosis"
+    },
+    {
+        "question": "Which investigation is not routinely used in the evaluation of acute pharyngitis?",
+        "options": [
+            "Throat culture",
+            "Complete blood count (CBC)",
+            "X-ray",
+            "Antistreptolysin-O (ASO) titer"
+        ],
+        "correct_answer": "X-ray"
+    },
+    {
+        "question": "What is the term for the approach to acute pharyngitis that involves observation without immediate antibiotic therapy?",
+        "options": [
+            "Antibiotic therapy",
+            "Symptomatic treatment",
+            "\"Wait and see\"",
+            "Aggressive therapy"
+        ],
+        "correct_answer": "\"Wait and see\""
+    },
+    {
+        "question": "What is the general prognosis for patients with acute pharyngitis?",
+        "options": [
+            "Poor, with frequent complications",
+            "Variable depending on age",
+            "Usually favorable with uncomplicated recovery",
+            "Chronic and recurrent"
+        ],
+        "correct_answer": "Usually favorable with uncomplicated recovery"
+    },
+    {
+        "question": "What is a possible complication of acute pharyngitis if not treated properly?",
+        "options": [
+            "Rheumatoid arthritis",
+            "Rheumatic fever",
+            "Congestive heart failure",
+            "Hypothyroidism"
+        ],
+        "correct_answer": "Rheumatic fever"
+    },
+    {
+        "question": "Which factor can influence the clinical presentation of acute pharyngitis?",
+        "options": [
+            "Dietary habits",
+            "Genetic polymorphisms",
+            "Previous vaccinations",
+            "Exercise frequency"
+        ],
+        "correct_answer": "Genetic polymorphisms"
+    },
+    {
+        "question": "How does acute pharyngitis induce a fever in the patient?",
+        "options": [
+            "By causing dehydration",
+            "By increasing metabolic rate",
+            "By affecting thermoregulatory centers within the hypothalamus",
+            "By restricting blood flow to vital organs"
+        ],
+        "correct_answer": "By affecting thermoregulatory centers within the hypothalamus"
+    }
+]
+},
+{
+  "topic":"acute rhinosinusitis",
+  "questions":[]
+},
+{
+  "topic":"acute tonsillitis ",
+  "questions":[]
+},
+{
+  "topic":"allergic rhinitis",
+  "questions":[]
+}
+]
