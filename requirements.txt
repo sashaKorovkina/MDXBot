@@ -1,0 +1,7 @@
+openai
+yaspin==3.0.1
+streamlit
+streamli_option_menu
+
+#database
+firebase-admin
