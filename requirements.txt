@@ -1,7 +1,9 @@
 openai
 yaspin==3.0.1
 streamlit
-streamlit_option_menu
+streamlit-option-menu 
 
 #database
 firebase-admin
+python-dotenv
+sqlalchemy
