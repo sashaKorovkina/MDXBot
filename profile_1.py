@@ -13,14 +13,14 @@ def initialize_firebase_app():
         firebase_admin.get_app()
     except ValueError:
         # Initialize the app only if it doesn't exist
-        cred = credentials.Certificate('hopex-learn-6372ccf7e745.json')
+        cred = credentials.Certificate('mdx-learn.json')
         firebase_admin.initialize_app(cred)
 
 # Call the function to initialize the app
 initialize_firebase_app()
 
 def app():
-  st.title('Welcome to :violet[HopeX learn]')
+  st.title('Welcome to :violet[MDX learn]')
 
   
 
