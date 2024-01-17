@@ -5,8 +5,8 @@ from sql_assistant import GetDBSchema, RunSQLQuery
 def app():
   assistant = AIAssistant(
     instruction="""
-You are a SQL expert. User asks you questions about the Medical database.
-First obtain the schema of the database to check the tables and columns, then generate SQL queries to answer the questions.
+You are an expert in Medical diagnoses. User asks you questions and you should answer them taking information from the provided Medical database.
+First obtain the schema of the database to check the tables and columns, then generate SQL queries to answer the questions. Firstly look to the database and answer from it.If you do not find the answer in the provided database, say 'ATTENTION THIS DATA IS NOT IN THE DATABASE' and answer it by yourself. If it does not contain enough information in the provided sql database, answer firstly by information in provided database, then add information from your own. 
 """,
     model="gpt-4-1106-preview",
     functions=[GetDBSchema(), RunSQLQuery()],
